@@ -8,8 +8,8 @@
     src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf")
 }
 body {
-    margin: 0 5% ;
-}
+    margin: 0 4% ;
+} 
 nav{
     font-family: "roboto";
 }
@@ -25,5 +25,24 @@ a.two{
     color: #5E3BEE;
 }
 a.two:hover{
+    color: #5E3BEE;
+}
+
+li.abc{
+    padding: 0px 5px;
+}
+button.two{
+    background-color: #5E3BEE;
+    border-radius: 5px;
+    color: #F5FCFF;
+    font-size: 20px;
+    font-family: "roboto";
+    letter-spacing: 0%;
+    height: 69px;
+}
+.hero{
+    background-color: #F5FCFF;
+}
+span{
     color: #5E3BEE;
 }
