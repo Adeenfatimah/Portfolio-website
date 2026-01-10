@@ -7,11 +7,14 @@
     font-family: "roboto";
     src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf")
 }
-body {
-    margin: 0 4% ;
-} 
+/* body {
+    padding: 0 2% ;
+}  */
 nav{
     font-family: "roboto";
+}
+nav img {
+    padding-left: 40%;
 }
 .one{
     border: 1.33px solid #5E3BEE ;
