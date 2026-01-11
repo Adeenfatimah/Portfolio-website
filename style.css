@@ -49,3 +49,26 @@ button.two{
 span{
     color: #5E3BEE;
 }
+
+.text{
+    padding: 90px 0px 40px 100px;
+}
+.kjh{
+    padding: 0px 100px;
+}
+.efg {
+    background-color: #F5FCFF;
+    margin: 15px;
+    width: 300px;
+}
+.imag img{
+    height: 90px;
+    width: 90px;
+    padding: 0px 12px;
+}
+.efg h3{
+    padding: 10px 0px 10px 12px
+}
+.efg p{
+    padding-left: 12px;
+}
