@@ -1,40 +1,48 @@
-*{
-    margin: 0 ;
+* {
+    margin: 0;
     box-sizing: border-box;
     padding: 0;
 }
+
 @font-face {
     font-family: "roboto";
     src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf")
 }
+
 /* body {
     padding: 0 2% ;
 }  */
-nav{
+body {
     font-family: "roboto";
 }
+
 nav img {
     padding-left: 40%;
 }
-.one{
-    border: 1.33px solid #5E3BEE ;
+
+.one {
+    border: 1.33px solid #5E3BEE;
     color: #5E3BEE
 }
-.one:hover{
-    border: 1.33px solid #5E3BEE ;
+
+.one:hover {
+    border: 1.33px solid #5E3BEE;
     color: #5E3BEE
 }
-a.two{
-    color: #5E3BEE;
-}
-a.two:hover{
+
+a.two {
     color: #5E3BEE;
 }
 
-li.abc{
+a.two:hover {
+    color: #5E3BEE;
+}
+
+li.abc {
     padding: 0px 5px;
 }
-button.two{
+
+button.two {
     background-color: #5E3BEE;
     border-radius: 5px;
     color: #F5FCFF;
@@ -43,30 +51,112 @@ button.two{
     letter-spacing: 0%;
     height: 69px;
 }
-.hero{
+
+.hero {
     background-color: #F5FCFF;
 }
-span{
+
+span {
     color: #5E3BEE;
 }
 
-.text{
-    padding: 90px 0px 40px 100px;
+.text {
+    padding: 90px 0px 0px 157px;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 21.33px;
 }
-.kjh{
-    padding: 0px 100px;
-}
+
 .efg {
     background-color: #F5FCFF;
 }
-.imag img{
+
+.imag img {
     height: 90px;
     width: 90px;
     padding: 0px 12px;
 }
-.efg h3{
+
+.efg h3 {
     padding: 10px 0px 10px 12px
 }
-.efg p{
+
+.efg p {
     padding-left: 12px;
+}
+
+
+.mno{
+    padding: 0px 100px;
+}
+
+.ghj h3{
+   font-family: Roboto;
+    font-weight: 600;
+    font-size: 21.33px; 
+}
+.ghj{
+    width: 20rem;
+}
+.ghj img{
+    width: 20rem
+}
+
+.pqr{
+    padding: 0px 4% 100px 4%;
+}
+
+.xyz{
+    margin: 0px 50px ;
+    box-shadow: 0px 0px 32px 0px #00000026;
+    border: none;
+}
+.xyz a{
+    text-decoration: none ;
+    display: inline-block;
+    width: 40%;
+    border-bottom: 2px solid #5E3BEE;
+    color: black;
+    margin: 0px 0px 15px 18px ;
+}
+
+.rmn{
+    padding: 0px 6%;
+}
+.abe{
+    margin: 0px 40px;
+    border: none;
+    background-color: #F5FCFF
+}
+.abe img{
+    border-radius: 50%;
+    display: flex;
+    width: 20%;
+}
+.wer{ 
+    padding-left: 20px;
+}
+
+
+.nht{
+    padding-top: 100px;
+}
+
+.akl{
+    padding: 0 20%;
+}
+.ghj{
+    margin: 50px 45%;
+    background-color: #5E3BEE;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    width: 170px;
+    height: 69px;
+}
+.uri{
+    padding: 0px 8%;
+}
+.hbj a{
+    color: black;
 }
