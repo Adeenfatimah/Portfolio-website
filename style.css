@@ -126,7 +126,8 @@ span {
 .abe{
     margin: 0px 40px;
     border: none;
-    background-color: #F5FCFF
+    background-color: #F5FCFF;
+    border: 2px solid #006B6A;
 }
 .abe img{
     border-radius: 50%;
@@ -159,4 +160,11 @@ span {
 }
 .hbj a{
     color: black;
+}
+
+.per input{
+    border: 1px solid #006B6A;
+}
+.per select {
+    border: 1px solid #006B6A
 }
